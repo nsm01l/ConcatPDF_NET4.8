@@ -10,7 +10,7 @@
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <RootNamespace>DecryptPDF</RootNamespace>
     <AssemblyName>DecryptPDF</AssemblyName>
-    <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
+    <TargetFrameworkVersion>v4.8</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <StartupObject>Ujihara.ConcatPDF.MainModule</StartupObject>
     <SignAssembly>true</SignAssembly>
